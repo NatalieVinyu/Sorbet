@@ -1,9 +1,15 @@
-.carousel-inner, .carousel-item {
-  height: 50vh;
+.img-height {
+  height: 60vh;
+  object-fit: cover;
 }
 
-.carousel-item img {
-  height: 100%;
-  width: 100%;
-  object-fit: cover;
+.bg-background {
+  background-image: url('images/background.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.bg-color {
+  background-color: #EC6036;
 }
