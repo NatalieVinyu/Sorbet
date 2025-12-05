@@ -1,3 +1,9 @@
+.logo {
+  width: 15%;
+  height: auto;
+  max-width: 100%;
+}
+
 .img-height {
   height: 60vh;
   object-fit: cover;
