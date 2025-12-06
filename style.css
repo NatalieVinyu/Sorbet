@@ -17,11 +17,17 @@
   font-size: 60px;
   font-weight: 700;
   letter-spacing: 3px;
-  color: #EC6036;
+  color: #515441;
 }
 
 .bg-color {
-  background-color: #EC6036;
+  background-color: #515441;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
 }
 
 .grid {
