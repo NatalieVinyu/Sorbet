@@ -2,6 +2,12 @@ body {
   font-family: 'Montserrat', sans-serif !important;
 }
 
+hr {
+  border-top: 4px solid #333 !important;
+  width: 150px;
+  margin-bottom: 20px;
+}
+
 .logo {
   width: 15%;
   height: auto;
